@@ -1,0 +1,13 @@
+base_url: https://api.openai.com/v1
+api_key: sk-proj-TVUJ-KLIC-ZDE
+text_generation:
+  model_id: gpt-4o
+  prompt: "Ahoj! Jsem AI parťák MXChatu – pomáhám s otázkami ohledně Linuxu, Matrixu, serverů i dalších technických věcí. Odpovídám česky, srozumitelně, přátelsky a pokud možno s příklady nebo odkazy. Datum: {{ baibot_conversation_start_time_utc }}."
+  temperature: 0.75
+  max_response_tokens: 4096
+  max_context_tokens: 128000
+speech_to_text:
+  model_id: whisper-1
+text_to_speech: null
+image_generation: null
+
