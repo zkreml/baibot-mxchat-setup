@@ -10,6 +10,7 @@ Kompletní konfigurace AI botů pro MXChat komunitu.
 |--------|-------|
 | `agents/archosuv-botik.yaml` | Osobní room-local bot, technicky laděný pomocník pro Archose |
 | `agents/mxchat-bot.yaml`     | Globální komunitní bot pro všechny místnosti |
+| `agents/oscloud-agent.yaml` | Lokální bot v místnosti Oscloud |
 
 ## 🛠️ Postup nasazení
 
